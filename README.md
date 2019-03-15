@@ -12,7 +12,7 @@ aisle
 departments
 products
 
-Main questions are:
+
 1. How many orders on average each user have ordered?
 2. How frequently did people reorder
 3. When are orders placed over the day and over the week?
@@ -22,6 +22,11 @@ Main questions are:
 7. Reorder rate of products
 8. How users can be clustered into different segmentations through which aisle they order from? 
 and what are the attributes of these users?
+
+Recommendations
+1.Product Placement
+2.Easier Order Experience
+3.Market Strategy
 
 To answer these questions, we conducted descriptive analysis through Tableau which can be accessed through the deck; modeling
 was done on Jupyter Notebook which was shared on GitHub. 
