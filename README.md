@@ -26,7 +26,7 @@ and what are the attributes of these users?
 Recommendations
 1.Product Placement
 2.Easier Order Experience
-3.Market Strategy
+3.Marketing Strategy
 
 To answer these questions, we conducted descriptive analysis through Tableau which can be accessed through the deck; modeling
 was done on Jupyter Notebook which was shared on GitHub. 
@@ -36,6 +36,4 @@ We decided to work with aisle data specifically as it's between the level of pro
 which is not too granular or too general. 
 
 Main findings in descriptives are summarized in the deck. For modeling, we found 5 user segments,
-and did persona analysis to understand user attributes. We have suggested Instacart to keep conducting
-qualitative study to have a closer look at the user groups to understand their specific needs and
-develop their product. 
+and did persona analysis to understand user attributes. 
